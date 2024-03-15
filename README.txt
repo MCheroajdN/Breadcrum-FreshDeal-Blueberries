@@ -1,4 +1,4 @@
-Createing breadcrum navigation using HTML and CSS for a FreshDeal Blueberries Site
+Adding UI element- breadcrum navigation using HTML and CSS for a FreshDeal Blueberries Site
 # FreshDeals - Blueberries
 
 ## Introduction
