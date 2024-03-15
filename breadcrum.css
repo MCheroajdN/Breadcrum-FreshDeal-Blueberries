@@ -1,0 +1,27 @@
+/* Number 3*/
+.breadcrumb li {
+  display: inline;
+}
+
+/* Number 4 
+.breadcrumb li::before {
+  content: "> ";
+}
+*/
+
+/* Number 7  see blueberries.html for added class of location*/
+.breadcrumb li.location::before {
+  content: "> ";
+}
+
+/* Number 8 */
+ .attribute a {
+  font-weight : bold;
+  color : #713D49;
+   }
+/* Number 8 */
+   .attribute a::after {
+    content: " x";
+    font-size: 12px;
+    vertical-align: super;
+   }
